@@ -1,0 +1,11 @@
+C:\Users\Williams\Desktop\Practica#3POEDemo\StudentSystemData\bin\Debug\net8.0\StudentSystemData.deps.json
+C:\Users\Williams\Desktop\Practica#3POEDemo\StudentSystemData\bin\Debug\net8.0\StudentSystemData.dll
+C:\Users\Williams\Desktop\Practica#3POEDemo\StudentSystemData\bin\Debug\net8.0\StudentSystemData.pdb
+C:\Users\Williams\Desktop\Practica#3POEDemo\StudentSystemData\obj\Debug\net8.0\StudentSystemData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\Practica#3POEDemo\StudentSystemData\obj\Debug\net8.0\StudentSystemData.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\Practica#3POEDemo\StudentSystemData\obj\Debug\net8.0\StudentSystemData.AssemblyInfo.cs
+C:\Users\Williams\Desktop\Practica#3POEDemo\StudentSystemData\obj\Debug\net8.0\StudentSystemData.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\Practica#3POEDemo\StudentSystemData\obj\Debug\net8.0\StudentSystemData.dll
+C:\Users\Williams\Desktop\Practica#3POEDemo\StudentSystemData\obj\Debug\net8.0\refint\StudentSystemData.dll
+C:\Users\Williams\Desktop\Practica#3POEDemo\StudentSystemData\obj\Debug\net8.0\StudentSystemData.pdb
+C:\Users\Williams\Desktop\Practica#3POEDemo\StudentSystemData\obj\Debug\net8.0\ref\StudentSystemData.dll
