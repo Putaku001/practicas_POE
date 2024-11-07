@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Practicas de Programacion Orientada a Eventos\\Practica #1\\Practica#1-POEDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{824D1049-4BE7-435A-9530-E6384C4EA7A6}|Practica#1-POE\\Practica#1-POE.csproj|e:\\practicas de programacion orientada a eventos\\practica #1\\practica#1-poedemo\\practica#1-poe\\forms\\eventosteclado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{824D1049-4BE7-435A-9530-E6384C4EA7A6}|Practica#1-POE\\Practica#1-POE.csproj|solutionrelative:practica#1-poe\\forms\\eventosteclado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824D1049-4BE7-435A-9530-E6384C4EA7A6}|Practica#1-POE\\Practica#1-POE.csproj|E:\\Practicas de Programacion Orientada a Eventos\\Practica #1\\Practica#1-POEDemo\\practica#1-poe\\forms\\eventosteclado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824D1049-4BE7-435A-9530-E6384C4EA7A6}|Practica#1-POE\\Practica#1-POE.csproj|solutionrelative:practica#1-poe\\forms\\eventosteclado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824D1049-4BE7-435A-9530-E6384C4EA7A6}|Practica#1-POE\\Practica#1-POE.csproj|E:\\Practicas de Programacion Orientada a Eventos\\Practica #1\\Practica#1-POEDemo\\practica#1-poe\\forms\\eventodemouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{824D1049-4BE7-435A-9530-E6384C4EA7A6}|Practica#1-POE\\Practica#1-POE.csproj|solutionrelative:practica#1-poe\\forms\\eventodemouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824D1049-4BE7-435A-9530-E6384C4EA7A6}|Practica#1-POE\\Practica#1-POE.csproj|E:\\Practicas de Programacion Orientada a Eventos\\Practica #1\\Practica#1-POEDemo\\practica#1-poe\\forms\\eventodemouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824D1049-4BE7-435A-9530-E6384C4EA7A6}|Practica#1-POE\\Practica#1-POE.csproj|solutionrelative:practica#1-poe\\forms\\eventodemouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventoDeMouse.cs",
+              "DocumentMoniker": "E:\\Practicas de Programacion Orientada a Eventos\\Practica #1\\Practica#1-POEDemo\\Practica#1-POE\\Forms\\EventoDeMouse.cs",
+              "RelativeDocumentMoniker": "Practica#1-POE\\Forms\\EventoDeMouse.cs",
+              "ToolTip": "E:\\Practicas de Programacion Orientada a Eventos\\Practica #1\\Practica#1-POEDemo\\Practica#1-POE\\Forms\\EventoDeMouse.cs",
+              "RelativeToolTip": "Practica#1-POE\\Forms\\EventoDeMouse.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAApwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:42:09.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventoDeMouse.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Practicas de Programacion Orientada a Eventos\\Practica #1\\Practica#1-POEDemo\\Practica#1-POE\\Forms\\EventoDeMouse.cs",
+              "RelativeDocumentMoniker": "Practica#1-POE\\Forms\\EventoDeMouse.cs",
+              "ToolTip": "E:\\Practicas de Programacion Orientada a Eventos\\Practica #1\\Practica#1-POEDemo\\Practica#1-POE\\Forms\\EventoDeMouse.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica#1-POE\\Forms\\EventoDeMouse.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:42:02.588Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventosTeclado.cs",
+              "DocumentMoniker": "E:\\Practicas de Programacion Orientada a Eventos\\Practica #1\\Practica#1-POEDemo\\Practica#1-POE\\Forms\\EventosTeclado.cs",
+              "RelativeDocumentMoniker": "Practica#1-POE\\Forms\\EventosTeclado.cs",
+              "ToolTip": "E:\\Practicas de Programacion Orientada a Eventos\\Practica #1\\Practica#1-POEDemo\\Practica#1-POE\\Forms\\EventosTeclado.cs",
+              "RelativeToolTip": "Practica#1-POE\\Forms\\EventosTeclado.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAxwCsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:40:11.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventosTeclado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Practicas de Programacion Orientada a Eventos\\Practica #1\\Practica#1-POEDemo\\Practica#1-POE\\Forms\\EventosTeclado.cs",
+              "RelativeDocumentMoniker": "Practica#1-POE\\Forms\\EventosTeclado.cs",
+              "ToolTip": "E:\\Practicas de Programacion Orientada a Eventos\\Practica #1\\Practica#1-POEDemo\\Practica#1-POE\\Forms\\EventosTeclado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Practica#1-POE\\Forms\\EventosTeclado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:40:12.054Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

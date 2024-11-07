@@ -1,0 +1,30 @@
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\DataAccessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\DataAccessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\DataAccessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\DataAccessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Williams\OneDrive - Universidad de Oriente\Practicas de Programacion Orientada a Eventos\Practica #6 POE\StudentAdministrator\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
