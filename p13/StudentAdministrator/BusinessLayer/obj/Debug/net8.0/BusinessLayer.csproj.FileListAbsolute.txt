@@ -1,0 +1,106 @@
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll

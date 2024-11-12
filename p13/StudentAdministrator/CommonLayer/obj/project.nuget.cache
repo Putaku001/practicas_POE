@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ERr5tQjFiLv4G1NvfBwA/PAy7ADgMEYUd/CRIpk9chjLZtLUmHXaCdtBagw7LExsJZSt1RzdBsLc9OihslF1wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Williams\\Desktop\\Proyecto Completo Con Roles\\StudentAdministrator\\CommonLayer\\CommonLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Williams\\.nuget\\packages\\questpdf\\2024.10.2\\questpdf.2024.10.2.nupkg.sha512"
+  ],
+  "logs": []
+}

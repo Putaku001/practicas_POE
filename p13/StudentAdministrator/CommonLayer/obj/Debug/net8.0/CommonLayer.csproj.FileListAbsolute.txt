@@ -1,0 +1,84 @@
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.deps.json
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.deps.json
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfo.cs
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.deps.json
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.deps.json
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\obj\Debug\net8.0\refint\CommonLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\obj\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\CommonLayer\obj\Debug\net8.0\ref\CommonLayer.dll
