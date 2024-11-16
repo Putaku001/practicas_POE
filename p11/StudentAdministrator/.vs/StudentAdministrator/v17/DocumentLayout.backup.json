@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wr190\\OneDrive\\Escritorio\\StudentAdministrator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5279E0-7FEF-4CE1-8272-4AF3D334CF8A}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\wr190\\onedrive\\escritorio\\studentadministrator\\presentationlayer\\forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5279E0-7FEF-4CE1-8272-4AF3D334CF8A}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5279E0-7FEF-4CE1-8272-4AF3D334CF8A}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\wr190\\OneDrive\\Escritorio\\StudentAdministrator\\presentationlayer\\forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C5279E0-7FEF-4CE1-8272-4AF3D334CF8A}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\forms\\studentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{506F4D64-FF6F-436A-A0DF-DA7569D2195B}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\wr190\\onedrive\\escritorio\\studentadministrator\\businesslayer\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{506F4D64-FF6F-436A-A0DF-DA7569D2195B}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E998B30C-A8FE-4B5E-B13B-A2DDD982C711}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\wr190\\onedrive\\escritorio\\studentadministrator\\dataaccesslayer\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E998B30C-A8FE-4B5E-B13B-A2DDD982C711}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\wr190\\OneDrive\\Escritorio\\StudentAdministrator\\PresentationLayer\\Forms\\StudentForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\wr190\\OneDrive\\Escritorio\\StudentAdministrator\\PresentationLayer\\Forms\\StudentForm.cs",
+              "RelativeToolTip": "PresentationLayer\\Forms\\StudentForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:46:36.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wr190\\OneDrive\\Escritorio\\StudentAdministrator\\PresentationLayer\\Forms\\StudentForm.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Forms\\StudentForm.cs",
+              "ToolTip": "C:\\Users\\wr190\\OneDrive\\Escritorio\\StudentAdministrator\\PresentationLayer\\Forms\\StudentForm.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\Forms\\StudentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:35:10.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\wr190\\OneDrive\\Escritorio\\StudentAdministrator\\BusinessLayer\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\wr190\\OneDrive\\Escritorio\\StudentAdministrator\\BusinessLayer\\Services\\StudentService.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\StudentService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:27:57.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wr190\\OneDrive\\Escritorio\\StudentAdministrator\\DataAccessLayer\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\wr190\\OneDrive\\Escritorio\\StudentAdministrator\\DataAccessLayer\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:08:00.315Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

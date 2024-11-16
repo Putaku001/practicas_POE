@@ -1,0 +1,34 @@
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
