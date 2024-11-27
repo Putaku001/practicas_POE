@@ -1,0 +1,389 @@
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.exe
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.deps.json
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\CommonLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\CommonLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.CareerForm.resources
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.CopyComplete
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\refint\PresentationLayer.dll
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\Williams\Desktop\Practica 7 POE\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\ref\PresentationLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.exe
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.deps.json
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\CommonLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\CommonLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.CareerForm.resources
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.StudentForm.resources
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\Presenta.9C561136.Up2Date
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\refint\PresentationLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\wr190\OneDrive\Escritorio\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\ref\PresentationLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.exe
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.deps.json
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\CommonLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\CommonLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.CareerForm.resources
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.StudentForm.resources
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.CopyComplete
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\refint\PresentationLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\ref\PresentationLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\OFL.txt
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\QuestPDF.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\Williams\Desktop\Proyecto Completo\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\OFL.txt
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.exe
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.deps.json
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\QuestPDF.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\CommonLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\CommonLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.CareerForm.resources
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.StudentForm.resources
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.CopyComplete
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\refint\PresentationLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\ref\PresentationLayer.dll
+C:\Users\Williams\Desktop\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.LoginForm.resources
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Black.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-BlackItalic.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Bold.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-BoldItalic.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraBold.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraLight.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Italic.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Light.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-LightItalic.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Medium.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-MediumItalic.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Regular.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-SemiBold.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-Thin.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\Lato-ThinItalic.ttf
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\LatoFont\OFL.txt
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.exe
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.deps.json
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\QuestPDF.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libQuestPdfSkia.so
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libQuestPdfSkia.so
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x64\native\QuestPdfSkia.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win-x86\native\QuestPdfSkia.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\BusinessLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\CommonLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\BusinessLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\CommonLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.CareerForm.resources
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.LoginForm.resources
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.Forms.StudentForm.resources
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\Presenta.9C561136.Up2Date
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\refint\PresentationLayer.dll
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.pdb
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\wr190\OneDrive\Escritorio\Proyecto Completo Con Roles\StudentAdministrator\PresentationLayer\obj\Debug\net8.0-windows\ref\PresentationLayer.dll
